@@ -8,7 +8,7 @@
 - 💬 Ask me about my final paper idea.
 - 📫 How to reach me: menesesvictor56@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: When I was a kid and people see me in computer almost all day log they used got upset, now everyone is kinda proud of me
+- ⚡ Fun fact: When I was a kid and people see me in computer almost all day long they used got upset, now everyone is kinda proud of me
 
 <div align="center">
   <a href="https://github.com/pinhovm">
