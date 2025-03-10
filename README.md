@@ -1,7 +1,5 @@
-### Hi there my name is Victor. I'm a comp sci student, currently at 7th out of 10 semesters.
-
-- 🌱 I’m currently learning Java, Angular, JavaSript and jQuery.
-- 🤔 I’m looking for help with get into market so I can profissionalize and be able to help other developers to do the same.
+### Hi there, my name is Victor. I have a bachelor's degree in Computer Science, and I work in the tech department at City Hall, as well as in the private sector providing user support for Datasync Commercial Automation.
+- 🌱 I’m currently learning Javascript with React and Express.
 - ⚡ Fun fact: When I was a kid and people see me in computer almost all day long they used got upset, now everyone is kinda proud of me
 
 <div align="center">
